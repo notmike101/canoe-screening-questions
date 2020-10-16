@@ -1,0 +1,71 @@
+main.js:4 Testing Mike Orozco requesting Mike Orozco mouth open/close
+main.js:5   Is Mike Orozco mouth open: false
+main.js:6   Mike Orozco requesting mouth open
+main.js:8   Is Mike Orozco mouth open: true
+main.js:9   Mike Orozco requesting mouth close
+main.js:11   Is Mike Orozco mouth open: false
+main.js:12 End Test
+main.js:4 Testing Mike Orozco requesting Doctor Doo-little mouth open/close
+main.js:5   Is Doctor Doo-little mouth open: false
+main.js:6   Mike Orozco requesting mouth open
+main.js:8   Is Doctor Doo-little mouth open: false
+main.js:9   Mike Orozco requesting mouth close
+main.js:11   Is Doctor Doo-little mouth open: false
+main.js:12 End Test
+main.js:4 Testing Mike Orozco requesting John Doe mouth open/close
+main.js:5   Is John Doe mouth open: false
+main.js:6   Mike Orozco requesting mouth open
+main.js:8   Is John Doe mouth open: false
+main.js:9   Mike Orozco requesting mouth close
+main.js:11   Is John Doe mouth open: false
+main.js:12 End Test
+main.js:4 Testing Doctor Doo-little requesting Mike Orozco mouth open/close
+main.js:5   Is Mike Orozco mouth open: false
+main.js:6   Doctor Doo-little requesting mouth open
+main.js:8   Is Mike Orozco mouth open: true
+main.js:9   Doctor Doo-little requesting mouth close
+main.js:11   Is Mike Orozco mouth open: false
+main.js:12 End Test
+main.js:4 Testing Doctor Doo-little requesting Doctor Doo-little mouth open/close
+main.js:5   Is Doctor Doo-little mouth open: false
+main.js:6   Doctor Doo-little requesting mouth open
+main.js:8   Is Doctor Doo-little mouth open: true
+main.js:9   Doctor Doo-little requesting mouth close
+main.js:11   Is Doctor Doo-little mouth open: false
+main.js:12 End Test
+main.js:4 Testing Doctor Doo-little requesting John Doe mouth open/close
+main.js:5   Is John Doe mouth open: false
+main.js:6   Doctor Doo-little requesting mouth open
+main.js:8   Is John Doe mouth open: true
+main.js:9   Doctor Doo-little requesting mouth close
+main.js:11   Is John Doe mouth open: false
+main.js:12 End Test
+main.js:4 Testing John Doe requesting Mike Orozco mouth open/close
+main.js:5   Is Mike Orozco mouth open: false
+main.js:6   John Doe requesting mouth open
+main.js:8   Is Mike Orozco mouth open: false
+main.js:9   John Doe requesting mouth close
+main.js:11   Is Mike Orozco mouth open: false
+main.js:12 End Test
+main.js:4 Testing John Doe requesting Doctor Doo-little mouth open/close
+main.js:5   Is Doctor Doo-little mouth open: false
+main.js:6   John Doe requesting mouth open
+main.js:8   Is Doctor Doo-little mouth open: false
+main.js:9   John Doe requesting mouth close
+main.js:11   Is Doctor Doo-little mouth open: false
+main.js:12 End Test
+main.js:4 Testing John Doe requesting John Doe mouth open/close
+main.js:5   Is John Doe mouth open: false
+main.js:6   John Doe requesting mouth open
+main.js:8   Is John Doe mouth open: true
+main.js:9   John Doe requesting mouth close
+main.js:11   Is John Doe mouth open: false
+main.js:12 End Test
+main.js:32 Promoting Mike Orozco to doctor
+main.js:4 Testing Mike Orozco requesting John Doe mouth open/close
+main.js:5   Is John Doe mouth open: false
+main.js:6   Mike Orozco requesting mouth open
+main.js:8   Is John Doe mouth open: true
+main.js:9   Mike Orozco requesting mouth close
+main.js:11   Is John Doe mouth open: false
+main.js:12 End Test
