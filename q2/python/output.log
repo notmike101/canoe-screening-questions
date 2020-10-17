@@ -1,0 +1,72 @@
+python3 main.py
+Testing Mike Orozco requesting Mike Orozco mouth open/close
+  Is Mike Orozco mouth open: False
+  Mike Orozco requesting mouth open
+  Is Mike Orozco mouth open: True
+  Mike Orozco requesting mouth close
+  Is Mike Orozco mouth open: False
+End Test
+Testing Mike Orozco requesting Doctor Doo-little mouth open/close
+  Is Doctor Doo-little mouth open: False
+  Mike Orozco requesting mouth open
+  Is Doctor Doo-little mouth open: True
+  Mike Orozco requesting mouth close
+  Is Doctor Doo-little mouth open: False
+End Test
+Testing Mike Orozco requesting John Doe mouth open/close
+  Is John Doe mouth open: False
+  Mike Orozco requesting mouth open
+  Is John Doe mouth open: True
+  Mike Orozco requesting mouth close
+  Is John Doe mouth open: False
+End Test
+Testing Doctor Doo-little requesting Mike Orozco mouth open/close
+  Is Mike Orozco mouth open: False
+  Doctor Doo-little requesting mouth open
+  Is Mike Orozco mouth open: True
+  Doctor Doo-little requesting mouth close
+  Is Mike Orozco mouth open: False
+End Test
+Testing Doctor Doo-little requesting Doctor Doo-little mouth open/close
+  Is Doctor Doo-little mouth open: False
+  Doctor Doo-little requesting mouth open
+  Is Doctor Doo-little mouth open: True
+  Doctor Doo-little requesting mouth close
+  Is Doctor Doo-little mouth open: False
+End Test
+Testing Doctor Doo-little requesting John Doe mouth open/close
+  Is John Doe mouth open: False
+  Doctor Doo-little requesting mouth open
+  Is John Doe mouth open: True
+  Doctor Doo-little requesting mouth close
+  Is John Doe mouth open: False
+End Test
+Testing John Doe requesting Mike Orozco mouth open/close
+  Is Mike Orozco mouth open: False
+  John Doe requesting mouth open
+  Is Mike Orozco mouth open: True
+  John Doe requesting mouth close
+  Is Mike Orozco mouth open: False
+End Test
+Testing John Doe requesting Doctor Doo-little mouth open/close
+  Is Doctor Doo-little mouth open: False
+  John Doe requesting mouth open
+  Is Doctor Doo-little mouth open: True
+  John Doe requesting mouth close
+  Is Doctor Doo-little mouth open: False
+End Test
+Testing John Doe requesting John Doe mouth open/close
+  Is John Doe mouth open: False
+  John Doe requesting mouth open
+  Is John Doe mouth open: True
+  John Doe requesting mouth close
+  Is John Doe mouth open: False
+End Test
+Promoting Mike Orozco to doctor
+Testing Mike Orozco requesting John Doe mouth open/close
+  Is John Doe mouth open: False
+  Mike Orozco requesting mouth open
+  Is John Doe mouth open: True
+  Mike Orozco requesting mouth close
+  Is John Doe mouth open: False
+End Test
